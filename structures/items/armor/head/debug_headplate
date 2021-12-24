@@ -1,0 +1,23 @@
+ItemHeader:
+  Type: Armor
+  Wear_at: BodyArmor(0)
+Item:
+  Name: Debug Headplate
+  Description: >
+    This is a Debug item and an example item to provide view over how file-structure can be initialized (and hacked).
+  Buff:
+    Atk: @const:infinity
+    Def: @const:infinity
+    Accuracy: @const:infinity
+    Luck: 42%
+    # 42 here is not the same as usual 42. It is a percentage of the actual number.
+    # Or perhaps, i should define it differently?
+  Debuff:
+    # Debuff is same as adding a 'negative' sign to a attribute.
+    Agi: 1%
+
+# ItemHeader should have not be defined, as if we're already adding it to something like: armor.head.debug_headplate
+# We're slightly mimicing Veloren's object/item structure.
+
+# @<any> and a function like BodyArmor and etc. should be unhackable.
+# as if there's nothing feels like a vulnerability...

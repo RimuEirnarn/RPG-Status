@@ -1,0 +1,8 @@
+.idea
+.idea/*
+.vscode/*
+.vscode
+__pycache__/*
+lib/__pycache__/*
+how-to.txt
+.tabnineignore

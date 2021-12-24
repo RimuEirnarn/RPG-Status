@@ -1,0 +1,33 @@
+Attributes acronyms.
+
+Str  -> Strength
+Int  -> Intelligence
+Cha  -> Charisma
+Wis  -> Wisdom
+Will -> Willpower
+Luck -> Luck
+Dex  -> Dexterity
+Agi  -> Agility
+Vit  -> Vitality
+Per  -> Perception
+End  -> Endurance
+Res  -> Resillience
+Sta  -> Stamina
+
+Computational Attributes.
+
+HP     -> HitPoint / Health Point
+MP     -> Magical Point
+Crit   -> Critical Percentage
+Dodge  -> Dodge Percentage
+Acc    -> Accuracy
+SpdAcc -> Speed Acceleration
+Atk    -> Attack
+Def    -> Defence
+MagAtk -> Magical Attack
+MagDef -> Magical Defence
+
+Character Attributes.
+
+Level -> Level
+EXP   -> Experience Point

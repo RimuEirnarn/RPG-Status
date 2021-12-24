@@ -1,0 +1,10 @@
+Race:
+  Name: Human
+  RaceId: 0
+  Description: >
+    Human race... <fill it yourself>
+  Buff:
+    Agi: 1%
+    # As if mentioned in items.armor.head.debug_headplate, 1% would be the same as 1, but it's (1) is deprecated.
+  Debuff:
+    Dex: 1%
