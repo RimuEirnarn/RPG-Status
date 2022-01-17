@@ -4,7 +4,7 @@
 The basic status will be implemented here."""
 
 __version__ = "0.0.1-5a Non-functional"
-__author__ = "Archaent Nakasaki"
+__author__ = "RimuEirnarn"
 
 from abc import ABC, abstractmethod
 from dataclasses import dataclass
