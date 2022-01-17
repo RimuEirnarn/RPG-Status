@@ -51,4 +51,3 @@ class TestCharacter(unittest.TestCase):
             pprint(json_string, self.output, 2, sort_dicts=False)
             self.output.write("\n\n{'='*30}\n\n")
     
-        
