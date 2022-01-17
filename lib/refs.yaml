@@ -1,0 +1,30 @@
+Attribute:
+  Str: Strength Attribute
+  Int: Intelligence Attribute
+  Cha: Charisma Attribute
+  Wis: Wisdom Attribute
+  Will: Willpower Attribute
+  Luck: Luck Attribute
+  Dex: Dexterity Attribute
+  Agi: Agility Attribute
+  Vit: Vitality Attribute
+  Per: Perception Attribute
+  End: Endurance Attribute
+  Res: Resillience Attribute
+  Sta: Stamina Attribute
+  Bra: Bravery Attribute
+Computational Attribute:
+  HP: HealthPoints of a Character. Value indicating character's health
+  MP: Magical Point of a Character. Value indicating character's magical capacity
+  Crit: Critical Percentage, determines Critical attack percentage
+  Evade: Dodge Percentage, determines Evasion percentage
+  Acc: Accuracy, determines Weapon accuracy
+  SpdAcc: Speed Acceleration, Increases speed of a character
+  Atk: Attack - Physical Attack
+  Def: Defence - Physical Defence
+  MagAtk: Magical Attack
+  MagDef: Magical Defence
+Character Attribute:
+  EXP: Experience Points, value of experience, when exceeding MaxEXP. the value resets to 0 and level incrased by one. Triggers addition to MaxEXP (when leveled up)
+  MagEXP: Magical Experience Points
+  MagSkEXP: Magical Skill Experience Points

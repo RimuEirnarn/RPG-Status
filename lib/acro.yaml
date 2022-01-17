@@ -1,0 +1,32 @@
+Attribute:
+  Str: Strength
+  Int: Intelligence
+  Cha: Charisma
+  Wis: Wisdom
+  Will: Willpower
+  Luck: Luck
+  Dex: Dexterity
+  Agi: Agility
+  Vit: Vitality
+  Per: Perception
+  End: Endurance
+  Res: Resillience
+  Sta: Stamina
+  Bra: Bravery
+Computational Attribute:
+  HP: 
+   - HitPoints
+   - HealthPoints
+  MP: Magical Point
+  Crit: Critical Percentage
+  Evade: Dodge Percentage
+  Acc: Accuracy
+  SpdAcc: Speed Acceleration
+  Atk: Attack
+  Def: Defence
+  MagAtk: Magical Attack
+  MagDef: Magical Defence
+Character Attribute:
+  EXP: Experience Points
+  MagEXP: Magical Experience Points
+  MagSkEXP: Magical Skill Experience Points
